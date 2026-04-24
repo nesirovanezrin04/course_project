@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+nav {
+    text-align: center;
+    padding: 10px;
+    background-color: #eee;
+}
+
+nav a {
+    margin: 10px;
+    text-decoration: none;
+    color: black;
+}
+
+section {
+    padding: 20px;
+}
+
+#hero {
+    text-align: center;
+}
+
+#hero img {
+    width: 150px;
+    border-radius: 50%;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #333;
+    color: white;
+}
