@@ -41,3 +41,12 @@ footer {
     background-color: #333;
     color: white;
 }
+.edit-btn {
+  display: inline-block;
+  margin-top: 5px;
+  padding: 6px 10px;
+  background-color: orange;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+}
