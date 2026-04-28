@@ -7,11 +7,6 @@ form {
   margin-bottom: 20px;
 }
 
-.post {
-  border: 1px solid #ccc;
-  padding: 10px;
-  margin-bottom: 10px;
-}
 input, textarea {
   width: 100%;
   padding: 10px;
@@ -22,6 +17,7 @@ input, textarea {
   padding: 15px;
   border-radius: 10px;
   background: #f9f9f9;
+  margin-bottom: 15px;
 }
 button {
   padding: 8px 12px;
